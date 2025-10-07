@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wecome to El's Playground 👋
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e88282,100:9348a8&height=180&text=Welcome,%20here%20is%20El's%20Playground!&animation=&fontColor=ffffff&fontSize=50" />
